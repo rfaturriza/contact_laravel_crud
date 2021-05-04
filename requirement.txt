@@ -1,0 +1,13 @@
+
+
+firstname
+lastname
+address
+phone number
+date of birth
+gender
+photo
+
+button to save data
+button to list the data
+
